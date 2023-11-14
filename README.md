@@ -16,7 +16,7 @@ This tutorial applies to computer web pages, so it is recommended that you open 
 * You can look for files in the list on the left or right, just like in a file manager on your computer.
 ![https://raw.githubusercontent.com/C14H10O4/kakomoon/main/IMAGES/4.png](http://)
 * Documents in PDF format, or image files can be previewed directly on the web page.
-![https://raw.githubusercontent.com/C14H10O4/kakomoon/main/IMAGES/1.png](http://)
+![https://raw.githubusercontent.com/C14H10O4/kakomoon/main/pic/1.png](http://)
 ![https://raw.githubusercontent.com/C14H10O4/kakomoon/main/IMAGES/5.png](http://)
 * If necessary, you can also download the file directly, through this download icon.
 ![https://raw.githubusercontent.com/C14H10O4/kakomoon/main/IMAGES/2.png](http://)
